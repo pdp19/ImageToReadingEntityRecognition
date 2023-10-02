@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glooko-hackathon",
+  "private_key_id": "6836b5c52c84bfea72b0bf21b320da64454384c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsr/Nu33rGfM3s\n9+jkgny951KNnzRV3ZWWFZwPEV/7mpsbNq7+CtqZOrbecerWsPIQV8TVadycbD1b\njHbniNBFeHVbcm1oBDtZovS2NVsl37LjAfPvjatdBwOkanpo7e2NqZIRg6U5BuXE\n0tpuK2frdgvb6SL7LRt+SNW6P7C8ByfJy5jeGSEC/8+tsL0L5pps1BEdjawtwwzv\nrRAhtVVd5tBgUyVEHIoQ35YXKNg4ZgaHaa8LrtfoVbXotSDipunBAYIjOA+eepHH\ni8dd0OpR3SI+qHdSHKUEFNkParZYIRzwDzopn2+Ein2MF1IBK0+g/JMVf/OVDTac\nAg/qaV4XAgMBAAECggEABxo/iW5gptxIPfheWFOznL3wa8nCBcwU1HT0E7yTtY4A\n1ig0H1fD8Ox0zAZkccsaUajCfEKb48Uh6uuGknRSmKDhNs8oh9AwvrmQlhPwuUiP\nm32fkllB1JQuxqroePtcO2jfjJ/dAlDxz1waxtA7OHiE+VkH6svKpzGItN3cv4b8\ndkiWFmvw4Gg+eckuZb8FzxNwiCskpQAiG+rjwmVTrFF4Qj+ZbpPbiZdXSnsw46FF\nBWNkus6dohSZTNL7MTUJRdaONkXz4wiy1hHwHYDFvtWQ8k80AXY8YmYftM8zMQMR\npLnSdmWoYbLgBUSRpcnAqNVeIShM6f4sic99ubq6hQKBgQDj8vzlnuj4ogyqKOST\nOsPxLedCcL27a/DCUL+SAh0QY6YE695nilJrVV3yMHkrRSVXqNqdTYoVGOD9ysQ8\nNBb8LFPGCmfphwd1Ke24IWJ0NAybecuSGX84/o9k+U+ly3mMKUh3h12RgBgmGR9S\nvFU5g3fhOBhOOzyVXp2X1HYxfQKBgQDB8BDQTs74z8WeOgntCoG5VZmZw8d1R0ee\nz0TmC1t66JMU5VhTuA1x7wp1zv3+Q6Hfq6lRc13wwjuOhqtrPao8zN8dsrOL85bV\ngLg0/lRqSDzpXOaNf3EhsTtdTJTqQVDvb8jIyUeiVyTSnZpowAafZAiFXhmeY9OG\nCA/wicYiIwKBgGgOe03i7dzaNMfUpQtkrx/A4andx27wRlad/+WKG3Ro2Ne0SLGh\nXiBrNtihMh8DkJlklm9qfxdEZSjV0CDfcoKpRZDJHUhogIoGmuMMMmJzhDHRNpG6\nG+6Lni/s82Pu78yA5/jQjXEnNV7m5vqgyJLZpfbk4YuM1Qomx/AQZ+gNAoGAJIaJ\nNCJTmsrO5lD6A5nh+rzjc/FKhI0LMR7KVCU5cnmREfNr4kCcz6N8rdlxPs0QFKco\n+X0n6Ss7ukkkycrQYCkZsGcyp54V/1oB14E69tVqG21ywp2I+hZ+HsFInqH0k1PT\nVfWKt0mAVuZ16VqZJLXbYPrrCki00t572gqotU8CgYAMjNOMOim1EEt3FgKeTdgI\nA926Oja61z9B7B8qIByatovwta7bxzwYOKDa74M2twqb3dyeYi5E4IpzLVklU7TN\n8aTiunExR9QtKJjSk4BHn/I3hhUYCnMWZLmbBez7qwvjTaTxKoXkh4M1jN9UNSod\nUgWmuBwEYQURZWcpNs22xw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "glooko-account-hackathon@glooko-hackathon.iam.gserviceaccount.com",
+  "client_id": "118022937397098103520",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/glooko-account-hackathon%40glooko-hackathon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
